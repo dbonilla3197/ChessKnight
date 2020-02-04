@@ -4,3 +4,9 @@ C:\Users\dbonilla\Documents\Training\ChessVertwo\ChessKnight\ChessKnight\bin\Deb
 C:\Users\dbonilla\Documents\Training\ChessVertwo\ChessKnight\ChessKnight\obj\Debug\ChessKnight.csprojAssemblyReference.cache
 C:\Users\dbonilla\Documents\Training\ChessVertwo\ChessKnight\ChessKnight\obj\Debug\ChessKnight.exe
 C:\Users\dbonilla\Documents\Training\ChessVertwo\ChessKnight\ChessKnight\obj\Debug\ChessKnight.pdb
+C:\Users\dbonilla\Documents\ReposTraining\Chess\ChessKnight\ChessKnight\bin\Debug\ChessKnight.exe.config
+C:\Users\dbonilla\Documents\ReposTraining\Chess\ChessKnight\ChessKnight\bin\Debug\ChessKnight.exe
+C:\Users\dbonilla\Documents\ReposTraining\Chess\ChessKnight\ChessKnight\bin\Debug\ChessKnight.pdb
+C:\Users\dbonilla\Documents\ReposTraining\Chess\ChessKnight\ChessKnight\obj\Debug\ChessKnight.csprojAssemblyReference.cache
+C:\Users\dbonilla\Documents\ReposTraining\Chess\ChessKnight\ChessKnight\obj\Debug\ChessKnight.exe
+C:\Users\dbonilla\Documents\ReposTraining\Chess\ChessKnight\ChessKnight\obj\Debug\ChessKnight.pdb
